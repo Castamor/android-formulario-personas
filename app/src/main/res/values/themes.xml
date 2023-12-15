@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Personas" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/rosa</item>
+        <item name="android:textColor">@color/negro</item>
+        <item name="android:windowBackground">@color/fondoClaro</item>
+        <item name="android:statusBarColor">@color/fondoOscuro</item>
+    </style>
+
+    <style name="Theme.Personas" parent="Base.Theme.Personas" />
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rosa">#BC7493</color>
+    <color name="blanco">#F3EEF1</color>
+    <color name="gris">#C3C3C3</color>
+    <color name="negro">#FF202020</color>
+
+    <color name="cardClaro">#FBFBFB</color>
+    <color name="cardOscuro">#22191F</color>
+
+    <color name="fondoClaro">#F3EEF1</color>
+    <color name="fondoOscuro">#030303</color>
+</resources>

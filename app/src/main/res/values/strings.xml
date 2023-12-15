@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Personas</string>
+    <string name="titulo">Lista de Personas</string>
+
+    <!-- Labels -->
+    <string name="nombreLabel">Nombre</string>
+    <string name="edadLabel">Edad</string>
+    <string name="domicilioLabel">Domicilio</string>
+    <string name="generoLabel">Género</string>
+    <string name="eliminarLabel">Eliminar</string>
+
+    <!-- Botones -->
+    <string name="btnAgregar">Añadir</string>
+    <string name="btnLimpiar">Vaciar lista</string>
+    <string name="btnMostrar">Ver lista completa</string>
+    <string name="btnSalir">Regresar</string>
+
+</resources>
